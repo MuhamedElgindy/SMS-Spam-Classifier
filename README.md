@@ -1,4 +1,4 @@
-# SMS-Spam-Detection
+# SMS-Spam-Classifier
 NLP and PySpark Project using TF_IDF, Tokenizer and some NLP package
 
 Project is to create a Spam filter using NaiveBayes classifier.
